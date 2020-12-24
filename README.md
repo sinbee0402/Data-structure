@@ -7,15 +7,15 @@ It is a data structure that I have implemented in many languages based on what I
 <br>
 
 > ## Stack
-* ## 구현 언어 (Implementation Language)
+* ### 구현 언어 (Implementation Language)
     * C
 
 <br>
 
 > ## Queue
-* ## 선형 큐
+* ### 선형 큐
 
-* ## 원형 큐
+* ### 원형 큐
 
-* ## 구현 언어 (Implementation Language)
+* ### 구현 언어 (Implementation Language)
     * C (Creating...)
