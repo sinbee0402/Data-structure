@@ -3,8 +3,10 @@
 제가 배운 것을 바탕으로 여러 언어로 구현해 본 자료 구조입니다.
 ---------------------------------
 <br>
+
 It is a data structure that I have implemented in many languages based on what I have learned.
-----------------
+-----------------------------------------------------------------------
+
 <br>
 
 > ## Stack
